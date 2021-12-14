@@ -1,6 +1,6 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
@@ -9,7 +9,7 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62831477787992",
+	"ownerNumber": "6283147787992",
 	"ownerNumberr": "6283147787992",
 	"cr": "@Katyusha",
 	"ownername": "Katyusha",
